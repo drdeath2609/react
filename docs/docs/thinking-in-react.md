@@ -16,7 +16,7 @@ One of the many great parts of React is how it makes you think about apps as you
 
 Imagine that we already have a JSON API and a mock from our designer. The mock looks like this:
 
-![Mockup](/react/img/blog/thinking-in-react-mock.png)
+![Mockup](https://facebook.github.io/react/img/blog/thinking-in-react-mock.png)
 
 Our JSON API returns some data that looks like this:
 
